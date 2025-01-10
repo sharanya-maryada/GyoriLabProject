@@ -1,0 +1,675 @@
+[
+  {
+    "end": 22,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "Vestibular schwannomas",
+          "ref": "Vestibular schwannoma",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannoma",
+            "source": "doid",
+            "source_db": "DOID",
+            "source_id": "DOID:12689",
+            "status": "synonym",
+            "text": "Vestibular schwannoma"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannomas",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Vestibular Schwannomas"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannoma",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Vestibular Schwannoma"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Neuroma, Acoustic",
+          "id": "D009464",
+          "norm_text": "vestibular schwannoma",
+          "source": "hp",
+          "source_db": "HP",
+          "source_id": "HP:0009588",
+          "status": "name",
+          "text": "Vestibular schwannoma"
+        },
+        "url": "https://identifiers.org/mesh:D009464"
+      }
+    ],
+    "start": 0,
+    "text": "Vestibular schwannomas"
+  },
+  {
+    "end": 71,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "cerebellopontine angle tumor",
+          "ref": "cerebellopontine angle tumor",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "term": {
+          "db": "DOID",
+          "entry_name": "cerebellopontine angle tumor",
+          "id": "DOID:3200",
+          "norm_text": "cerebellopontine angle tumor",
+          "source": "doid",
+          "status": "name",
+          "text": "cerebellopontine angle tumor"
+        },
+        "url": "https://identifiers.org/DOID:3200"
+      }
+    ],
+    "start": 43,
+    "text": "cerebellopontine angle tumor"
+  },
+  {
+    "end": 88,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "all_caps"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "past",
+          "ref": "PAST",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "HGNC",
+          "entry_name": "EHD1",
+          "id": "3242",
+          "norm_text": "past",
+          "organism": "9606",
+          "source": "uniprot",
+          "source_db": "UP",
+          "source_id": "Q9H4M9",
+          "status": "synonym",
+          "text": "PAST"
+        },
+        "url": "https://identifiers.org/hgnc:3242"
+      }
+    ],
+    "start": 84,
+    "text": "past"
+  },
+  {
+    "end": 118,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "goals",
+          "ref": "Goals",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Goals",
+            "id": "D006040",
+            "norm_text": "goal",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Goal"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Goals",
+          "id": "D006040",
+          "norm_text": "goals",
+          "source": "mesh",
+          "status": "name",
+          "text": "Goals"
+        },
+        "url": "https://identifiers.org/mesh:D006040"
+      }
+    ],
+    "start": 113,
+    "text": "goals"
+  },
+  {
+    "end": 144,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "vestibular schwannomas",
+          "ref": "Vestibular schwannoma",
+          "space_mismatch": false
+        },
+        "score": 0.7715934858792002,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannoma",
+            "source": "doid",
+            "source_db": "DOID",
+            "source_id": "DOID:12689",
+            "status": "synonym",
+            "text": "Vestibular schwannoma"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannomas",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Vestibular Schwannomas"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannoma",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Vestibular Schwannoma"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Neuroma, Acoustic",
+          "id": "D009464",
+          "norm_text": "vestibular schwannoma",
+          "source": "hp",
+          "source_db": "HP",
+          "source_id": "HP:0009588",
+          "status": "name",
+          "text": "Vestibular schwannoma"
+        },
+        "url": "https://identifiers.org/mesh:D009464"
+      }
+    ],
+    "start": 122,
+    "text": "vestibular schwannomas"
+  },
+  {
+    "end": 259,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "surgical resection",
+          "ref": "surgical resection",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "term": {
+          "db": "EFO",
+          "entry_name": "surgical resection",
+          "id": "0009744",
+          "norm_text": "surgical resection",
+          "source": "efo",
+          "status": "name",
+          "text": "surgical resection"
+        },
+        "url": "https://identifiers.org/efo:0009744"
+      }
+    ],
+    "start": 241,
+    "text": "surgical resection"
+  },
+  {
+    "end": 286,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "radiosurgery",
+          "ref": "Radiosurgery",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Radiosurgery",
+          "id": "D016634",
+          "norm_text": "radiosurgery",
+          "source": "mesh",
+          "status": "name",
+          "text": "Radiosurgery"
+        },
+        "url": "https://identifiers.org/mesh:D016634"
+      }
+    ],
+    "start": 274,
+    "text": "radiosurgery"
+  },
+  {
+    "end": 303,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "observation",
+          "ref": "Observation",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Observation",
+          "id": "D019370",
+          "norm_text": "observation",
+          "source": "mesh",
+          "status": "name",
+          "text": "Observation"
+        },
+        "url": "https://identifiers.org/mesh:D019370"
+      }
+    ],
+    "start": 292,
+    "text": "observation"
+  },
+  {
+    "end": 390,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "follow-up",
+          "ref": "follow-up",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "EFO",
+            "entry_name": "follow-up",
+            "id": "0009642",
+            "norm_text": "follow up",
+            "source": "efo",
+            "status": "synonym",
+            "text": "follow up"
+          }
+        ],
+        "term": {
+          "db": "EFO",
+          "entry_name": "follow-up",
+          "id": "0009642",
+          "norm_text": "followup",
+          "source": "efo",
+          "status": "name",
+          "text": "follow-up"
+        },
+        "url": "https://identifiers.org/efo:0009642"
+      }
+    ],
+    "start": 381,
+    "text": "follow-up"
+  },
+  {
+    "end": 427,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "vestibular schwannomas",
+          "ref": "Vestibular schwannoma",
+          "space_mismatch": false
+        },
+        "score": 0.7715934858792002,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannoma",
+            "source": "doid",
+            "source_db": "DOID",
+            "source_id": "DOID:12689",
+            "status": "synonym",
+            "text": "Vestibular schwannoma"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannomas",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Vestibular Schwannomas"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannoma",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Vestibular Schwannoma"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Neuroma, Acoustic",
+          "id": "D009464",
+          "norm_text": "vestibular schwannoma",
+          "source": "hp",
+          "source_db": "HP",
+          "source_id": "HP:0009588",
+          "status": "name",
+          "text": "Vestibular schwannoma"
+        },
+        "url": "https://identifiers.org/mesh:D009464"
+      }
+    ],
+    "start": 405,
+    "text": "vestibular schwannomas"
+  },
+  {
+    "end": 458,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "understanding",
+          "ref": "Understanding",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Comprehension",
+          "id": "D032882",
+          "norm_text": "understanding",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Understanding"
+        },
+        "url": "https://identifiers.org/mesh:D032882"
+      }
+    ],
+    "start": 445,
+    "text": "understanding"
+  },
+  {
+    "end": 589,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "radiologist",
+          "ref": "Radiologist",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Radiologists",
+          "id": "D000072177",
+          "norm_text": "radiologist",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Radiologist"
+        },
+        "url": "https://identifiers.org/mesh:D000072177"
+      }
+    ],
+    "start": 578,
+    "text": "radiologist"
+  },
+  {
+    "end": 723,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "outcome assessment",
+          "ref": "Outcome Assessment",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Outcome Assessment, Health Care",
+          "id": "D017063",
+          "norm_text": "outcome assessment",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Outcome Assessment"
+        },
+        "url": "https://identifiers.org/mesh:D017063"
+      }
+    ],
+    "start": 705,
+    "text": "outcome assessment"
+  },
+  {
+    "end": 825,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "radiation therapy",
+          "ref": "Radiation Therapy",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Radiotherapy",
+          "id": "D011878",
+          "norm_text": "radiation therapy",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Radiation Therapy"
+        },
+        "url": "https://identifiers.org/mesh:D011878"
+      }
+    ],
+    "start": 808,
+    "text": "radiation therapy"
+  },
+  {
+    "end": 841,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "observation",
+          "ref": "Observation",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Observation",
+          "id": "D019370",
+          "norm_text": "observation",
+          "source": "mesh",
+          "status": "name",
+          "text": "Observation"
+        },
+        "url": "https://identifiers.org/mesh:D019370"
+      }
+    ],
+    "start": 830,
+    "text": "observation"
+  },
+  {
+    "end": 934,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "vestibular schwannomas",
+          "ref": "Vestibular schwannoma",
+          "space_mismatch": false
+        },
+        "score": 0.7715934858792002,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannoma",
+            "source": "doid",
+            "source_db": "DOID",
+            "source_id": "DOID:12689",
+            "status": "synonym",
+            "text": "Vestibular schwannoma"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannomas",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Vestibular Schwannomas"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Neuroma, Acoustic",
+            "id": "D009464",
+            "norm_text": "vestibular schwannoma",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Vestibular Schwannoma"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Neuroma, Acoustic",
+          "id": "D009464",
+          "norm_text": "vestibular schwannoma",
+          "source": "hp",
+          "source_db": "HP",
+          "source_id": "HP:0009588",
+          "status": "name",
+          "text": "Vestibular schwannoma"
+        },
+        "url": "https://identifiers.org/mesh:D009464"
+      }
+    ],
+    "start": 912,
+    "text": "vestibular schwannomas"
+  }
+]

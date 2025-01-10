@@ -90,14 +90,16 @@ def main():
     # 3. Annotate the text using Gilda
     gilda_annotations = annotate_text_with_gilda(abstract_text)
 
-    # 4. Save the result to <PMID>.json
+    # 4. Save the result to <PMID>.json in output folder
     output_filename = f"output/{pmid}.json"
     save_annotations_as_json(gilda_annotations, output_filename)
     print(f"Annotations saved to {output_filename}")
 
-    # 5. Optionally print stats
+    # 5. Optionally print stats 
     print_annotation_stats(gilda_annotations)
 
 
 if __name__ == "__main__":
     main()
+
+
