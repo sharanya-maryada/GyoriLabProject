@@ -1,0 +1,1338 @@
+[
+  {
+    "end": 51,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "ECG",
+          "ref": "ECG",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "(-)-epicatechin-3-O-gallate",
+          "id": "CHEBI:70255",
+          "norm_text": "ecg",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "ECG"
+        },
+        "url": "https://identifiers.org/CHEBI:70255"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "ECG",
+          "ref": "ECG",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Electrocardiography",
+          "id": "D004562",
+          "norm_text": "ecg",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "ECG"
+        },
+        "url": "https://identifiers.org/mesh:D004562"
+      }
+    ],
+    "start": 48,
+    "text": "ECG"
+  },
+  {
+    "end": 92,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "heart failure",
+          "ref": "heart failure",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Heart Failure",
+            "id": "D006333",
+            "norm_text": "heart failure",
+            "source": "mesh",
+            "status": "name",
+            "text": "Heart Failure"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Heart Failure",
+            "id": "D006333",
+            "norm_text": "heart failure",
+            "source": "hp",
+            "source_db": "HP",
+            "source_id": "HP:0001635",
+            "status": "synonym",
+            "text": "Heart failure"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Heart Failure",
+          "id": "D006333",
+          "norm_text": "heart failure",
+          "source": "efo",
+          "source_db": "EFO",
+          "source_id": "0003144",
+          "status": "name",
+          "text": "heart failure"
+        },
+        "url": "https://identifiers.org/mesh:D006333"
+      }
+    ],
+    "start": 79,
+    "text": "heart failure"
+  },
+  {
+    "end": 164,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "risk",
+          "ref": "Risk",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Risk",
+          "id": "D012306",
+          "norm_text": "risk",
+          "source": "mesh",
+          "status": "name",
+          "text": "Risk"
+        },
+        "url": "https://identifiers.org/mesh:D012306"
+      }
+    ],
+    "start": 160,
+    "text": "risk"
+  },
+  {
+    "end": 181,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "heart failure",
+          "ref": "heart failure",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Heart Failure",
+            "id": "D006333",
+            "norm_text": "heart failure",
+            "source": "mesh",
+            "status": "name",
+            "text": "Heart Failure"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Heart Failure",
+            "id": "D006333",
+            "norm_text": "heart failure",
+            "source": "hp",
+            "source_db": "HP",
+            "source_id": "HP:0001635",
+            "status": "synonym",
+            "text": "Heart failure"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Heart Failure",
+          "id": "D006333",
+          "norm_text": "heart failure",
+          "source": "efo",
+          "source_db": "EFO",
+          "source_id": "0003144",
+          "status": "name",
+          "text": "heart failure"
+        },
+        "url": "https://identifiers.org/mesh:D006333"
+      }
+    ],
+    "start": 168,
+    "text": "heart failure"
+  },
+  {
+    "end": 212,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "reduced ejection fraction",
+          "ref": "Reduced ejection fraction",
+          "space_mismatch": false
+        },
+        "score": 0.549371263656978,
+        "term": {
+          "db": "HP",
+          "entry_name": "Reduced left ventricular ejection fraction",
+          "id": "HP:0012664",
+          "norm_text": "reduced ejection fraction",
+          "source": "hp",
+          "status": "synonym",
+          "text": "Reduced ejection fraction"
+        },
+        "url": "https://identifiers.org/HP:0012664"
+      }
+    ],
+    "start": 187,
+    "text": "reduced ejection fraction"
+  },
+  {
+    "end": 239,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "heart failure",
+          "ref": "heart failure",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Heart Failure",
+            "id": "D006333",
+            "norm_text": "heart failure",
+            "source": "mesh",
+            "status": "name",
+            "text": "Heart Failure"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Heart Failure",
+            "id": "D006333",
+            "norm_text": "heart failure",
+            "source": "hp",
+            "source_db": "HP",
+            "source_id": "HP:0001635",
+            "status": "synonym",
+            "text": "Heart failure"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Heart Failure",
+          "id": "D006333",
+          "norm_text": "heart failure",
+          "source": "efo",
+          "source_db": "EFO",
+          "source_id": "0003144",
+          "status": "name",
+          "text": "heart failure"
+        },
+        "url": "https://identifiers.org/mesh:D006333"
+      }
+    ],
+    "start": 226,
+    "text": "heart failure"
+  },
+  {
+    "end": 332,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "female",
+          "ref": "Female",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Female",
+          "id": "D005260",
+          "norm_text": "female",
+          "source": "mesh",
+          "status": "name",
+          "text": "Female"
+        },
+        "url": "https://identifiers.org/mesh:D005260"
+      }
+    ],
+    "start": 326,
+    "text": "female"
+  },
+  {
+    "end": 365,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "MESA",
+          "ref": "MESA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "methanol extract of Sorbus alnifolia",
+          "id": "CHEBI:139306",
+          "norm_text": "mesa",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "MESA"
+        },
+        "url": "https://identifiers.org/CHEBI:139306"
+      }
+    ],
+    "start": 361,
+    "text": "MESA"
+  },
+  {
+    "end": 404,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "Atherosclerosis",
+          "ref": "Atherosclerosis",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Atherosclerosis",
+            "id": "D050197",
+            "norm_text": "atherosclerosis",
+            "source": "hp",
+            "source_db": "HP",
+            "source_id": "HP:0002621",
+            "status": "name",
+            "text": "Atherosclerosis"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Atherosclerosis",
+            "id": "D050197",
+            "norm_text": "atherosclerosis",
+            "source": "doid",
+            "source_db": "DOID",
+            "source_id": "DOID:1936",
+            "status": "name",
+            "text": "atherosclerosis"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Atherosclerosis",
+            "id": "D050197",
+            "norm_text": "atherosclerosis",
+            "source": "efo",
+            "source_db": "EFO",
+            "source_id": "0003914",
+            "status": "name",
+            "text": "atherosclerosis"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Atherosclerosis",
+          "id": "D050197",
+          "norm_text": "atherosclerosis",
+          "source": "mesh",
+          "status": "name",
+          "text": "Atherosclerosis"
+        },
+        "url": "https://identifiers.org/mesh:D050197"
+      }
+    ],
+    "start": 389,
+    "text": "Atherosclerosis"
+  },
+  {
+    "end": 445,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "cardiovascular disease",
+          "ref": "cardiovascular disease",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Cardiovascular Diseases",
+            "id": "D002318",
+            "norm_text": "cardiovascular disease",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Cardiovascular Disease"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Cardiovascular Diseases",
+          "id": "D002318",
+          "norm_text": "cardiovascular disease",
+          "source": "efo",
+          "source_db": "EFO",
+          "source_id": "0000319",
+          "status": "name",
+          "text": "cardiovascular disease"
+        },
+        "url": "https://identifiers.org/mesh:D002318"
+      },
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "cardiovascular disease",
+          "ref": "Cardiovascular disease",
+          "space_mismatch": false
+        },
+        "score": 0.549371263656978,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Cardiovascular Abnormalities",
+          "id": "D018376",
+          "norm_text": "cardiovascular disease",
+          "source": "hp",
+          "source_db": "HP",
+          "source_id": "HP:0001626",
+          "status": "synonym",
+          "text": "Cardiovascular disease"
+        },
+        "url": "https://identifiers.org/mesh:D018376"
+      }
+    ],
+    "start": 423,
+    "text": "cardiovascular disease"
+  },
+  {
+    "end": 488,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "risks",
+          "ref": "Risk",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Risk",
+            "id": "D012306",
+            "norm_text": "risks",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Risks"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Risk",
+          "id": "D012306",
+          "norm_text": "risk",
+          "source": "mesh",
+          "status": "name",
+          "text": "Risk"
+        },
+        "url": "https://identifiers.org/mesh:D012306"
+      }
+    ],
+    "start": 483,
+    "text": "risks"
+  },
+  {
+    "end": 533,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "association",
+          "ref": "Association",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Association",
+          "id": "D001244",
+          "norm_text": "association",
+          "source": "mesh",
+          "status": "name",
+          "text": "Association"
+        },
+        "url": "https://identifiers.org/mesh:D001244"
+      }
+    ],
+    "start": 522,
+    "text": "association"
+  },
+  {
+    "end": 557,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "ECG",
+          "ref": "ECG",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "(-)-epicatechin-3-O-gallate",
+          "id": "CHEBI:70255",
+          "norm_text": "ecg",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "ECG"
+        },
+        "url": "https://identifiers.org/CHEBI:70255"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "ECG",
+          "ref": "ECG",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Electrocardiography",
+          "id": "D004562",
+          "norm_text": "ecg",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "ECG"
+        },
+        "url": "https://identifiers.org/mesh:D004562"
+      }
+    ],
+    "start": 554,
+    "text": "ECG"
+  },
+  {
+    "end": 624,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "follow-up",
+          "ref": "follow-up",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "EFO",
+            "entry_name": "follow-up",
+            "id": "0009642",
+            "norm_text": "follow up",
+            "source": "efo",
+            "status": "synonym",
+            "text": "follow up"
+          }
+        ],
+        "term": {
+          "db": "EFO",
+          "entry_name": "follow-up",
+          "id": "0009642",
+          "norm_text": "followup",
+          "source": "efo",
+          "status": "name",
+          "text": "follow-up"
+        },
+        "url": "https://identifiers.org/efo:0009642"
+      }
+    ],
+    "start": 615,
+    "text": "follow-up"
+  },
+  {
+    "end": 712,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "follow-up",
+          "ref": "follow-up",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "EFO",
+            "entry_name": "follow-up",
+            "id": "0009642",
+            "norm_text": "follow up",
+            "source": "efo",
+            "status": "synonym",
+            "text": "follow up"
+          }
+        ],
+        "term": {
+          "db": "EFO",
+          "entry_name": "follow-up",
+          "id": "0009642",
+          "norm_text": "followup",
+          "source": "efo",
+          "status": "name",
+          "text": "follow-up"
+        },
+        "url": "https://identifiers.org/efo:0009642"
+      }
+    ],
+    "start": 703,
+    "text": "follow-up"
+  },
+  {
+    "end": 758,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "prolonged",
+          "ref": "Prolonged",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "HP",
+          "entry_name": "Prolonged",
+          "id": "HP:0025297",
+          "norm_text": "prolonged",
+          "source": "hp",
+          "status": "name",
+          "text": "Prolonged"
+        },
+        "url": "https://identifiers.org/HP:0025297"
+      }
+    ],
+    "start": 749,
+    "text": "prolonged"
+  },
+  {
+    "end": 771,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "QRS duration",
+          "ref": "QRS duration",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "term": {
+          "db": "EFO",
+          "entry_name": "QRS duration",
+          "id": "0005055",
+          "norm_text": "qrs duration",
+          "source": "efo",
+          "status": "name",
+          "text": "QRS duration"
+        },
+        "url": "https://identifiers.org/efo:0005055"
+      }
+    ],
+    "start": 759,
+    "text": "QRS duration"
+  },
+  {
+    "end": 870,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "prolonged QT interval",
+          "ref": "Prolonged QT interval",
+          "space_mismatch": false
+        },
+        "score": 0.7715934858792002,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Long QT Syndrome",
+          "id": "D008133",
+          "norm_text": "prolonged qt interval",
+          "source": "hp",
+          "source_db": "HP",
+          "source_id": "HP:0001657",
+          "status": "name",
+          "text": "Prolonged QT interval"
+        },
+        "url": "https://identifiers.org/mesh:D008133"
+      }
+    ],
+    "start": 849,
+    "text": "prolonged QT interval"
+  },
+  {
+    "end": 921,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "ventricular hypertrophy",
+          "ref": "Ventricular hypertrophy",
+          "space_mismatch": false
+        },
+        "score": 0.7715934858792002,
+        "term": {
+          "db": "HP",
+          "entry_name": "Ventricular hypertrophy",
+          "id": "HP:0001714",
+          "norm_text": "ventricular hypertrophy",
+          "source": "hp",
+          "status": "name",
+          "text": "Ventricular hypertrophy"
+        },
+        "url": "https://identifiers.org/HP:0001714"
+      }
+    ],
+    "start": 898,
+    "text": "ventricular hypertrophy"
+  },
+  {
+    "end": 976,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "bundle-branch block",
+          "ref": "Bundle branch block",
+          "space_mismatch": true
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Bundle-Branch Block",
+            "id": "D002037",
+            "norm_text": "bundlebranch block",
+            "source": "mesh",
+            "status": "name",
+            "text": "Bundle-Branch Block"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Bundle-Branch Block",
+            "id": "D002037",
+            "norm_text": "bundlebranch block",
+            "source": "hp",
+            "source_db": "HP",
+            "source_id": "HP:0011710",
+            "status": "synonym",
+            "text": "Bundle-branch block"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Bundle-Branch Block",
+            "id": "D002037",
+            "norm_text": "bundle branch block",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Bundle Branch Block"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Bundle-Branch Block",
+          "id": "D002037",
+          "norm_text": "bundle branch block",
+          "source": "hp",
+          "source_db": "HP",
+          "source_id": "HP:0011710",
+          "status": "name",
+          "text": "Bundle branch block"
+        },
+        "url": "https://identifiers.org/mesh:D002037"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "bundle-branch block",
+          "ref": "bundle branch block",
+          "space_mismatch": true
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "EFO",
+            "entry_name": "bundle branch block",
+            "id": "0004138",
+            "norm_text": "bundlebranch block",
+            "source": "efo",
+            "status": "synonym",
+            "text": "bundle-branch block"
+          }
+        ],
+        "term": {
+          "db": "EFO",
+          "entry_name": "bundle branch block",
+          "id": "0004138",
+          "norm_text": "bundle branch block",
+          "source": "efo",
+          "status": "name",
+          "text": "bundle branch block"
+        },
+        "url": "https://identifiers.org/efo:0004138"
+      }
+    ],
+    "start": 957,
+    "text": "bundle-branch block"
+  },
+  {
+    "end": 1043,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "resting heart rate",
+          "ref": "resting heart rate",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "term": {
+          "db": "EFO",
+          "entry_name": "resting heart rate",
+          "id": "0004351",
+          "norm_text": "resting heart rate",
+          "source": "efo",
+          "status": "name",
+          "text": "resting heart rate"
+        },
+        "url": "https://identifiers.org/efo:0004351"
+      }
+    ],
+    "start": 1025,
+    "text": "resting heart rate"
+  },
+  {
+    "end": 1060,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "abnormal P-wave",
+          "ref": "Abnormal P wave",
+          "space_mismatch": true
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "HP",
+          "entry_name": "Abnormal P wave",
+          "id": "HP:0031595",
+          "norm_text": "abnormal p wave",
+          "source": "hp",
+          "status": "name",
+          "text": "Abnormal P wave"
+        },
+        "url": "https://identifiers.org/HP:0031595"
+      }
+    ],
+    "start": 1045,
+    "text": "abnormal P-wave"
+  },
+  {
+    "end": 1127,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "risk",
+          "ref": "Risk",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Risk",
+          "id": "D012306",
+          "norm_text": "risk",
+          "source": "mesh",
+          "status": "name",
+          "text": "Risk"
+        },
+        "url": "https://identifiers.org/mesh:D012306"
+      }
+    ],
+    "start": 1123,
+    "text": "risk"
+  },
+  {
+    "end": 1260,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "confidence interval",
+          "ref": "Confidence Interval",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Confidence Intervals",
+          "id": "D016001",
+          "norm_text": "confidence interval",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Confidence Interval"
+        },
+        "url": "https://identifiers.org/mesh:D016001"
+      }
+    ],
+    "start": 1241,
+    "text": "confidence interval"
+  },
+  {
+    "end": 1264,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "CI",
+          "ref": "CI",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "HGNC",
+          "entry_name": "NDUFB6",
+          "id": "7701",
+          "norm_text": "ci",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "synonym",
+          "text": "CI"
+        },
+        "url": "https://identifiers.org/hgnc:7701"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "CI",
+          "ref": "CI",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "EFO",
+          "entry_name": "chemically induced mutation",
+          "id": "0000370",
+          "norm_text": "ci",
+          "source": "efo",
+          "status": "synonym",
+          "text": "CI"
+        },
+        "url": "https://identifiers.org/efo:0000370"
+      }
+    ],
+    "start": 1262,
+    "text": "CI"
+  },
+  {
+    "end": 1297,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "CI",
+          "ref": "CI",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "HGNC",
+          "entry_name": "NDUFB6",
+          "id": "7701",
+          "norm_text": "ci",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "synonym",
+          "text": "CI"
+        },
+        "url": "https://identifiers.org/hgnc:7701"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "CI",
+          "ref": "CI",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "EFO",
+          "entry_name": "chemically induced mutation",
+          "id": "0000370",
+          "norm_text": "ci",
+          "source": "efo",
+          "status": "synonym",
+          "text": "CI"
+        },
+        "url": "https://identifiers.org/efo:0000370"
+      }
+    ],
+    "start": 1295,
+    "text": "CI"
+  },
+  {
+    "end": 1360,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "ventricular repolarization",
+          "ref": "ventricular repolarization",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "GO",
+          "entry_name": "regulation of ventricular cardiac muscle cell membrane repolarization",
+          "id": "GO:0060307",
+          "norm_text": "ventricular repolarization",
+          "source": "go",
+          "status": "synonym",
+          "text": "ventricular repolarization"
+        },
+        "url": "https://identifiers.org/GO:0060307"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "ventricular repolarization",
+          "ref": "ventricular repolarization",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "GO",
+          "entry_name": "membrane repolarization during ventricular cardiac muscle cell action potential",
+          "id": "GO:0098915",
+          "norm_text": "ventricular repolarization",
+          "source": "go",
+          "status": "synonym",
+          "text": "ventricular repolarization"
+        },
+        "url": "https://identifiers.org/GO:0098915"
+      }
+    ],
+    "start": 1334,
+    "text": "ventricular repolarization"
+  },
+  {
+    "end": 1443,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "risk",
+          "ref": "Risk",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Risk",
+          "id": "D012306",
+          "norm_text": "risk",
+          "source": "mesh",
+          "status": "name",
+          "text": "Risk"
+        },
+        "url": "https://identifiers.org/mesh:D012306"
+      }
+    ],
+    "start": 1439,
+    "text": "risk"
+  },
+  {
+    "end": 1501,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "ECG",
+          "ref": "ECG",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "(-)-epicatechin-3-O-gallate",
+          "id": "CHEBI:70255",
+          "norm_text": "ecg",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "ECG"
+        },
+        "url": "https://identifiers.org/CHEBI:70255"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "ECG",
+          "ref": "ECG",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Electrocardiography",
+          "id": "D004562",
+          "norm_text": "ecg",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "ECG"
+        },
+        "url": "https://identifiers.org/mesh:D004562"
+      }
+    ],
+    "start": 1498,
+    "text": "ECG"
+  },
+  {
+    "end": 1545,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "risk assessment",
+          "ref": "Risk Assessment",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Risk Assessment",
+          "id": "D018570",
+          "norm_text": "risk assessment",
+          "source": "mesh",
+          "status": "name",
+          "text": "Risk Assessment"
+        },
+        "url": "https://identifiers.org/mesh:D018570"
+      }
+    ],
+    "start": 1530,
+    "text": "risk assessment"
+  },
+  {
+    "end": 1562,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "heart failure",
+          "ref": "heart failure",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Heart Failure",
+            "id": "D006333",
+            "norm_text": "heart failure",
+            "source": "mesh",
+            "status": "name",
+            "text": "Heart Failure"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Heart Failure",
+            "id": "D006333",
+            "norm_text": "heart failure",
+            "source": "hp",
+            "source_db": "HP",
+            "source_id": "HP:0001635",
+            "status": "synonym",
+            "text": "Heart failure"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Heart Failure",
+          "id": "D006333",
+          "norm_text": "heart failure",
+          "source": "efo",
+          "source_db": "EFO",
+          "source_id": "0003144",
+          "status": "name",
+          "text": "heart failure"
+        },
+        "url": "https://identifiers.org/mesh:D006333"
+      }
+    ],
+    "start": 1549,
+    "text": "heart failure"
+  }
+]

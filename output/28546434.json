@@ -1,0 +1,214 @@
+[
+  {
+    "end": 35,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "chronic",
+          "ref": "Chronic",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "HP",
+          "entry_name": "Chronic",
+          "id": "HP:0011010",
+          "norm_text": "chronic",
+          "source": "hp",
+          "status": "name",
+          "text": "Chronic"
+        },
+        "url": "https://identifiers.org/HP:0011010"
+      }
+    ],
+    "start": 28,
+    "text": "chronic"
+  },
+  {
+    "end": 43,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "alcohol",
+          "ref": "alcohol",
+          "space_mismatch": false
+        },
+        "score": 1.0,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "ethanol",
+          "id": "CHEBI:16236",
+          "norm_text": "alcohol",
+          "source": "famplex",
+          "status": "curated",
+          "text": "alcohol"
+        },
+        "url": "https://identifiers.org/CHEBI:16236"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "alcohol",
+          "ref": "alcohol",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "CHEBI",
+            "entry_name": "alcohol",
+            "id": "CHEBI:30879",
+            "norm_text": "alcohol",
+            "source": "chebi",
+            "status": "synonym",
+            "text": "Alcohol"
+          }
+        ],
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "alcohol",
+          "id": "CHEBI:30879",
+          "norm_text": "alcohol",
+          "source": "chebi",
+          "status": "name",
+          "text": "alcohol"
+        },
+        "url": "https://identifiers.org/CHEBI:30879"
+      }
+    ],
+    "start": 36,
+    "text": "alcohol"
+  },
+  {
+    "end": 79,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "relapse",
+          "ref": "relapse",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "EFO",
+          "entry_name": "disease recurrence",
+          "id": "0004952",
+          "norm_text": "relapse",
+          "source": "efo",
+          "status": "synonym",
+          "text": "relapse"
+        },
+        "url": "https://identifiers.org/efo:0004952"
+      }
+    ],
+    "start": 72,
+    "text": "relapse"
+  },
+  {
+    "end": 101,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "alcohol dependence",
+          "ref": "alcohol dependence",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "term": {
+          "db": "DOID",
+          "entry_name": "alcohol dependence",
+          "id": "DOID:0050741",
+          "norm_text": "alcohol dependence",
+          "source": "doid",
+          "status": "name",
+          "text": "alcohol dependence"
+        },
+        "url": "https://identifiers.org/DOID:0050741"
+      },
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "alcohol dependence",
+          "ref": "Alcohol Dependence",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Alcoholism",
+          "id": "D000437",
+          "norm_text": "alcohol dependence",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Alcohol Dependence"
+        },
+        "url": "https://identifiers.org/mesh:D000437"
+      }
+    ],
+    "start": 83,
+    "text": "alcohol dependence"
+  },
+  {
+    "end": 162,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "severity",
+          "ref": "Severity",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "HP",
+          "entry_name": "Severity",
+          "id": "HP:0012824",
+          "norm_text": "severity",
+          "source": "hp",
+          "status": "name",
+          "text": "Severity"
+        },
+        "url": "https://identifiers.org/HP:0012824"
+      }
+    ],
+    "start": 154,
+    "text": "severity"
+  }
+]

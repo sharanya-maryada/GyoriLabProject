@@ -1,0 +1,3378 @@
+[
+  {
+    "end": 58,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "endoplasmic reticulum stress",
+          "ref": "Endoplasmic Reticulum Stress",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Endoplasmic Reticulum Stress",
+            "id": "D059865",
+            "norm_text": "endoplasmic reticulum stress",
+            "source": "efo",
+            "source_db": "EFO",
+            "source_id": "1001886",
+            "status": "name",
+            "text": "Endoplasmic Reticulum Stress"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Endoplasmic Reticulum Stress",
+          "id": "D059865",
+          "norm_text": "endoplasmic reticulum stress",
+          "source": "mesh",
+          "status": "name",
+          "text": "Endoplasmic Reticulum Stress"
+        },
+        "url": "https://identifiers.org/mesh:D059865"
+      }
+    ],
+    "start": 30,
+    "text": "endoplasmic reticulum stress"
+  },
+  {
+    "end": 63,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "ERS",
+          "ref": "ERS",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Amelogenesis imperfecta nephrocalcinosis",
+          "id": "C538241",
+          "norm_text": "ers",
+          "source": "doid",
+          "source_db": "DOID",
+          "source_id": "DOID:0110066",
+          "status": "synonym",
+          "text": "ERS"
+        },
+        "url": "https://identifiers.org/mesh:C538241"
+      }
+    ],
+    "start": 60,
+    "text": "ERS"
+  },
+  {
+    "end": 88,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "acupuncture",
+          "ref": "Acupuncture",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Acupuncture",
+          "id": "D026881",
+          "norm_text": "acupuncture",
+          "source": "mesh",
+          "status": "name",
+          "text": "Acupuncture"
+        },
+        "url": "https://identifiers.org/mesh:D026881"
+      }
+    ],
+    "start": 77,
+    "text": "acupuncture"
+  },
+  {
+    "end": 150,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "brain injury",
+          "ref": "Brain Injury",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Brain Injuries",
+          "id": "D001930",
+          "norm_text": "brain injury",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Brain Injury"
+        },
+        "url": "https://identifiers.org/mesh:D001930"
+      }
+    ],
+    "start": 138,
+    "text": "brain injury"
+  },
+  {
+    "end": 177,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "heroin addiction",
+          "ref": "heroin addiction",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Heroin Dependence",
+            "id": "D006556",
+            "norm_text": "heroin addiction",
+            "source": "efo",
+            "source_db": "EFO",
+            "source_id": "0004240",
+            "status": "synonym",
+            "text": "Heroin addiction"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Heroin Dependence",
+            "id": "D006556",
+            "norm_text": "heroin addiction",
+            "source": "hp",
+            "source_db": "HP",
+            "source_id": "HP:0033517",
+            "status": "synonym",
+            "text": "Heroin addiction"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Heroin Dependence",
+            "id": "D006556",
+            "norm_text": "heroin addiction",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Heroin Addiction"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Heroin Dependence",
+          "id": "D006556",
+          "norm_text": "heroin addiction",
+          "source": "efo",
+          "source_db": "EFO",
+          "source_id": "0004240",
+          "status": "synonym",
+          "text": "heroin addiction"
+        },
+        "url": "https://identifiers.org/mesh:D006556"
+      }
+    ],
+    "start": 161,
+    "text": "heroin addiction"
+  },
+  {
+    "end": 198,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "male",
+          "ref": "Male",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Male",
+          "id": "D008297",
+          "norm_text": "male",
+          "source": "mesh",
+          "status": "name",
+          "text": "Male"
+        },
+        "url": "https://identifiers.org/mesh:D008297"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "male",
+          "ref": "male",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "maleate(2-)",
+          "id": "CHEBI:30780",
+          "norm_text": "male",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "male"
+        },
+        "url": "https://identifiers.org/CHEBI:30780"
+      }
+    ],
+    "start": 194,
+    "text": "male"
+  },
+  {
+    "end": 218,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "Sprague-Dawley rats",
+          "ref": "Sprague-Dawley rats",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Rats, Sprague-Dawley",
+            "id": "D017207",
+            "norm_text": "spraguedawley rat",
+            "source": "efo",
+            "source_db": "EFO",
+            "source_id": "0001352",
+            "status": "synonym",
+            "text": "Sprague-Dawley rat"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Rats, Sprague-Dawley",
+            "id": "D017207",
+            "norm_text": "spraguedawley rats",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Sprague-Dawley Rats"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Rats, Sprague-Dawley",
+            "id": "D017207",
+            "norm_text": "spraguedawley rat",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Sprague-Dawley Rat"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Rats, Sprague-Dawley",
+            "id": "D017207",
+            "norm_text": "sprague dawley rats",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Sprague Dawley Rats"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Rats, Sprague-Dawley",
+          "id": "D017207",
+          "norm_text": "spraguedawley rats",
+          "source": "efo",
+          "source_db": "EFO",
+          "source_id": "0001352",
+          "status": "synonym",
+          "text": "Sprague-Dawley rats"
+        },
+        "url": "https://identifiers.org/mesh:D017207"
+      }
+    ],
+    "start": 199,
+    "text": "Sprague-Dawley rats"
+  },
+  {
+    "end": 255,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "healthy",
+          "ref": "Healthy",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "HP",
+          "entry_name": "Healthy",
+          "id": "HP:0032322",
+          "norm_text": "healthy",
+          "source": "hp",
+          "status": "name",
+          "text": "Healthy"
+        },
+        "url": "https://identifiers.org/HP:0032322"
+      }
+    ],
+    "start": 248,
+    "text": "healthy"
+  },
+  {
+    "end": 300,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "heroin",
+          "ref": "heroin",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "chebi",
+            "status": "synonym",
+            "text": "Heroin"
+          },
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "mesh",
+            "source_db": "MESH",
+            "source_id": "D003932",
+            "status": "synonym",
+            "text": "Heroin"
+          }
+        ],
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "heroin",
+          "id": "CHEBI:27808",
+          "norm_text": "heroin",
+          "source": "chebi",
+          "status": "name",
+          "text": "heroin"
+        },
+        "url": "https://identifiers.org/CHEBI:27808"
+      }
+    ],
+    "start": 294,
+    "text": "heroin"
+  },
+  {
+    "end": 322,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "initial_cap",
+              "all_lower"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "Heroin",
+          "ref": "heroin",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "chebi",
+            "status": "synonym",
+            "text": "Heroin"
+          },
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "mesh",
+            "source_db": "MESH",
+            "source_id": "D003932",
+            "status": "synonym",
+            "text": "Heroin"
+          }
+        ],
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "heroin",
+          "id": "CHEBI:27808",
+          "norm_text": "heroin",
+          "source": "chebi",
+          "status": "name",
+          "text": "heroin"
+        },
+        "url": "https://identifiers.org/CHEBI:27808"
+      }
+    ],
+    "start": 316,
+    "text": "Heroin"
+  },
+  {
+    "end": 336,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "heroin",
+          "ref": "heroin",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "chebi",
+            "status": "synonym",
+            "text": "Heroin"
+          },
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "mesh",
+            "source_db": "MESH",
+            "source_id": "D003932",
+            "status": "synonym",
+            "text": "Heroin"
+          }
+        ],
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "heroin",
+          "id": "CHEBI:27808",
+          "norm_text": "heroin",
+          "source": "chebi",
+          "status": "name",
+          "text": "heroin"
+        },
+        "url": "https://identifiers.org/CHEBI:27808"
+      }
+    ],
+    "start": 330,
+    "text": "heroin"
+  },
+  {
+    "end": 379,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "electroacupuncture",
+          "ref": "Electroacupuncture",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Electroacupuncture",
+          "id": "D015671",
+          "norm_text": "electroacupuncture",
+          "source": "mesh",
+          "status": "name",
+          "text": "Electroacupuncture"
+        },
+        "url": "https://identifiers.org/mesh:D015671"
+      }
+    ],
+    "start": 361,
+    "text": "electroacupuncture"
+  },
+  {
+    "end": 383,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "HGNC",
+          "entry_name": "ALB",
+          "id": "399",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/hgnc:399"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "ethanolamine",
+          "id": "CHEBI:16000",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/CHEBI:16000"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "ethanol",
+          "id": "CHEBI:16236",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/CHEBI:16236"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "ergot alkaloid",
+          "id": "CHEBI:23943",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/CHEBI:23943"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "ethyl acetate",
+          "id": "CHEBI:27750",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/CHEBI:27750"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "elaidic acid",
+          "id": "CHEBI:27997",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/CHEBI:27997"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "Echinocystic acid",
+          "id": "CHEBI:4747",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/CHEBI:4747"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "ellagic acid",
+          "id": "CHEBI:4775",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/CHEBI:4775"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "etacrynic acid",
+          "id": "CHEBI:4876",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/CHEBI:4876"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "pamoic acid",
+          "id": "CHEBI:50186",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/CHEBI:50186"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "englerin A",
+          "id": "CHEBI:72441",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/CHEBI:72441"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "Ethyl acrylate",
+          "id": "CHEBI:82327",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/CHEBI:82327"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Episodic Ataxia",
+          "id": "C580065",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/mesh:C580065"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Emergence Delirium",
+          "id": "D000071257",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/mesh:D000071257"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Emotional Abuse",
+          "id": "D000085202",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/mesh:D000085202"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Adolescent",
+          "id": "D000293",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/mesh:D000293"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Anesthesia, Epidural",
+          "id": "D000767",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/mesh:D000767"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Arterioles",
+          "id": "D001160",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/mesh:D001160"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Arthrodesis",
+          "id": "D001174",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/mesh:D001174"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Esophageal Atresia",
+          "id": "D004933",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/mesh:D004933"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Analgesia, Epidural",
+          "id": "D015360",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/mesh:D015360"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Electroacupuncture",
+          "id": "D015671",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/mesh:D015671"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "EA",
+          "ref": "EA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "EFO",
+          "entry_name": "esophageal adenocarcinoma",
+          "id": "0000478",
+          "norm_text": "ea",
+          "source": "adeft",
+          "status": "synonym",
+          "text": "EA"
+        },
+        "url": "https://identifiers.org/efo:0000478"
+      }
+    ],
+    "start": 381,
+    "text": "EA"
+  },
+  {
+    "end": 447,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "rats",
+          "ref": "Rats",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Rats",
+            "id": "D051381",
+            "norm_text": "rat",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Rat"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Rats",
+          "id": "D051381",
+          "norm_text": "rats",
+          "source": "mesh",
+          "status": "name",
+          "text": "Rats"
+        },
+        "url": "https://identifiers.org/mesh:D051381"
+      }
+    ],
+    "start": 443,
+    "text": "rats"
+  },
+  {
+    "end": 464,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "rat",
+          "ref": "Rat",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Rats",
+          "id": "D051381",
+          "norm_text": "rat",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Rat"
+        },
+        "url": "https://identifiers.org/mesh:D051381"
+      }
+    ],
+    "start": 461,
+    "text": "rat"
+  },
+  {
+    "end": 490,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "heroin addiction",
+          "ref": "heroin addiction",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Heroin Dependence",
+            "id": "D006556",
+            "norm_text": "heroin addiction",
+            "source": "efo",
+            "source_db": "EFO",
+            "source_id": "0004240",
+            "status": "synonym",
+            "text": "Heroin addiction"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Heroin Dependence",
+            "id": "D006556",
+            "norm_text": "heroin addiction",
+            "source": "hp",
+            "source_db": "HP",
+            "source_id": "HP:0033517",
+            "status": "synonym",
+            "text": "Heroin addiction"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Heroin Dependence",
+            "id": "D006556",
+            "norm_text": "heroin addiction",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Heroin Addiction"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Heroin Dependence",
+          "id": "D006556",
+          "norm_text": "heroin addiction",
+          "source": "efo",
+          "source_db": "EFO",
+          "source_id": "0004240",
+          "status": "synonym",
+          "text": "heroin addiction"
+        },
+        "url": "https://identifiers.org/mesh:D006556"
+      }
+    ],
+    "start": 474,
+    "text": "heroin addiction"
+  },
+  {
+    "end": 533,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "intramuscular injection",
+          "ref": "Intramuscular Injection",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Injections, Intramuscular",
+          "id": "D007273",
+          "norm_text": "intramuscular injection",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Intramuscular Injection"
+        },
+        "url": "https://identifiers.org/mesh:D007273"
+      }
+    ],
+    "start": 510,
+    "text": "intramuscular injection"
+  },
+  {
+    "end": 564,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "heroin",
+          "ref": "heroin",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "chebi",
+            "status": "synonym",
+            "text": "Heroin"
+          },
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "mesh",
+            "source_db": "MESH",
+            "source_id": "D003932",
+            "status": "synonym",
+            "text": "Heroin"
+          }
+        ],
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "heroin",
+          "id": "CHEBI:27808",
+          "norm_text": "heroin",
+          "source": "chebi",
+          "status": "name",
+          "text": "heroin"
+        },
+        "url": "https://identifiers.org/CHEBI:27808"
+      }
+    ],
+    "start": 558,
+    "text": "heroin"
+  },
+  {
+    "end": 594,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "rat",
+          "ref": "Rat",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Rats",
+          "id": "D051381",
+          "norm_text": "rat",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Rat"
+        },
+        "url": "https://identifiers.org/mesh:D051381"
+      }
+    ],
+    "start": 591,
+    "text": "rat"
+  },
+  {
+    "end": 610,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "heroin",
+          "ref": "heroin",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "chebi",
+            "status": "synonym",
+            "text": "Heroin"
+          },
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "mesh",
+            "source_db": "MESH",
+            "source_id": "D003932",
+            "status": "synonym",
+            "text": "Heroin"
+          }
+        ],
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "heroin",
+          "id": "CHEBI:27808",
+          "norm_text": "heroin",
+          "source": "chebi",
+          "status": "name",
+          "text": "heroin"
+        },
+        "url": "https://identifiers.org/CHEBI:27808"
+      }
+    ],
+    "start": 604,
+    "text": "heroin"
+  },
+  {
+    "end": 618,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "relapse",
+          "ref": "relapse",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "EFO",
+          "entry_name": "disease recurrence",
+          "id": "0004952",
+          "norm_text": "relapse",
+          "source": "efo",
+          "status": "synonym",
+          "text": "relapse"
+        },
+        "url": "https://identifiers.org/efo:0004952"
+      }
+    ],
+    "start": 611,
+    "text": "relapse"
+  },
+  {
+    "end": 660,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "exposure",
+          "ref": "exposure",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "term": {
+          "db": "EFO",
+          "entry_name": "exposure",
+          "id": "0000487",
+          "norm_text": "exposure",
+          "source": "efo",
+          "status": "name",
+          "text": "exposure"
+        },
+        "url": "https://identifiers.org/efo:0000487"
+      }
+    ],
+    "start": 652,
+    "text": "exposure"
+  },
+  {
+    "end": 689,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "detoxification",
+          "ref": "detoxification",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "term": {
+          "db": "GO",
+          "entry_name": "detoxification",
+          "id": "GO:0098754",
+          "norm_text": "detoxification",
+          "source": "go",
+          "status": "name",
+          "text": "detoxification"
+        },
+        "url": "https://identifiers.org/GO:0098754"
+      }
+    ],
+    "start": 675,
+    "text": "detoxification"
+  },
+  {
+    "end": 696,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "method",
+          "ref": "Method",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Methods",
+          "id": "D008722",
+          "norm_text": "method",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Method"
+        },
+        "url": "https://identifiers.org/mesh:D008722"
+      }
+    ],
+    "start": 690,
+    "text": "method"
+  },
+  {
+    "end": 730,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "nerve cells",
+          "ref": "Nerve Cells",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Neurons",
+            "id": "D009474",
+            "norm_text": "nerve cell",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Nerve Cell"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Neurons",
+          "id": "D009474",
+          "norm_text": "nerve cells",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Nerve Cells"
+        },
+        "url": "https://identifiers.org/mesh:D009474"
+      }
+    ],
+    "start": 719,
+    "text": "nerve cells"
+  },
+  {
+    "end": 749,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "hippocampus",
+          "ref": "Hippocampus",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Hippocampus",
+          "id": "D006624",
+          "norm_text": "hippocampus",
+          "source": "mesh",
+          "status": "name",
+          "text": "Hippocampus"
+        },
+        "url": "https://identifiers.org/mesh:D006624"
+      }
+    ],
+    "start": 738,
+    "text": "hippocampus"
+  },
+  {
+    "end": 776,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "ventral tegmental area",
+          "ref": "Ventral Tegmental Area",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Ventral Tegmental Area",
+          "id": "D017557",
+          "norm_text": "ventral tegmental area",
+          "source": "mesh",
+          "status": "name",
+          "text": "Ventral Tegmental Area"
+        },
+        "url": "https://identifiers.org/mesh:D017557"
+      }
+    ],
+    "start": 754,
+    "text": "ventral tegmental area"
+  },
+  {
+    "end": 819,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "rats",
+          "ref": "Rats",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Rats",
+            "id": "D051381",
+            "norm_text": "rat",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Rat"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Rats",
+          "id": "D051381",
+          "norm_text": "rats",
+          "source": "mesh",
+          "status": "name",
+          "text": "Rats"
+        },
+        "url": "https://identifiers.org/mesh:D051381"
+      }
+    ],
+    "start": 815,
+    "text": "rats"
+  },
+  {
+    "end": 863,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "terminal deoxynucleotidyl transferase",
+          "ref": "Terminal Deoxynucleotidyl Transferase",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "HGNC",
+          "entry_name": "DNTT",
+          "id": "2983",
+          "norm_text": "terminal deoxynucleotidyl transferase",
+          "source": "mesh",
+          "source_db": "MESH",
+          "source_id": "D004253",
+          "status": "synonym",
+          "text": "Terminal Deoxynucleotidyl Transferase"
+        },
+        "url": "https://identifiers.org/hgnc:2983"
+      }
+    ],
+    "start": 826,
+    "text": "terminal deoxynucleotidyl transferase"
+  },
+  {
+    "end": 868,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "dUTP",
+          "ref": "dUTP",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "dUTP",
+          "id": "CHEBI:17625",
+          "norm_text": "dutp",
+          "source": "chebi",
+          "status": "name",
+          "text": "dUTP"
+        },
+        "url": "https://identifiers.org/CHEBI:17625"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "dUTP",
+          "ref": "dUTP",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "dUTP(4-)",
+          "id": "CHEBI:61555",
+          "norm_text": "dutp",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "dUTP"
+        },
+        "url": "https://identifiers.org/CHEBI:61555"
+      }
+    ],
+    "start": 864,
+    "text": "dUTP"
+  },
+  {
+    "end": 877,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "all_caps"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "end",
+          "ref": "END",
+          "space_mismatch": false
+        },
+        "score": 0.484436198721913,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "ENG",
+            "id": "3349",
+            "norm_text": "end",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "P17813",
+            "status": "synonym",
+            "text": "END"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "ENG",
+          "id": "3349",
+          "norm_text": "end",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "synonym",
+          "text": "END"
+        },
+        "url": "https://identifiers.org/hgnc:3349"
+      }
+    ],
+    "start": 874,
+    "text": "end"
+  },
+  {
+    "end": 887,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "labelling",
+          "ref": "labelling",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "term": {
+          "db": "EFO",
+          "entry_name": "labelling",
+          "id": "0000562",
+          "norm_text": "labelling",
+          "source": "efo",
+          "status": "name",
+          "text": "labelling"
+        },
+        "url": "https://identifiers.org/efo:0000562"
+      }
+    ],
+    "start": 878,
+    "text": "labelling"
+  },
+  {
+    "end": 894,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "TUNEL",
+          "ref": "TUNEL",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "In Situ Nick-End Labeling",
+          "id": "D020287",
+          "norm_text": "tunel",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "TUNEL"
+        },
+        "url": "https://identifiers.org/mesh:D020287"
+      }
+    ],
+    "start": 889,
+    "text": "TUNEL"
+  },
+  {
+    "end": 907,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "PERK",
+          "ref": "PERK",
+          "space_mismatch": false
+        },
+        "score": 1.0,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2AK3",
+            "id": "3255",
+            "norm_text": "perk",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "Q9NZJ5",
+            "status": "synonym",
+            "text": "PERK"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "EIF2AK3",
+          "id": "3255",
+          "norm_text": "perk",
+          "organism": "9606",
+          "source": "famplex",
+          "status": "curated",
+          "text": "PERK"
+        },
+        "url": "https://identifiers.org/hgnc:3255"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "PERK",
+          "ref": "PERK",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "tetrachloroethene",
+          "id": "CHEBI:17300",
+          "norm_text": "perk",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "PERK"
+        },
+        "url": "https://identifiers.org/CHEBI:17300"
+      }
+    ],
+    "start": 903,
+    "text": "PERK"
+  },
+  {
+    "end": 914,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "mixed",
+              "mixed"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "eIF2a",
+          "ref": "EIF2A",
+          "space_mismatch": false
+        },
+        "score": 0.7245928674500104,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2A",
+            "id": "3254",
+            "norm_text": "eif2a",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "Q9BY44",
+            "status": "name",
+            "text": "EIF2A"
+          },
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2A",
+            "id": "3254",
+            "norm_text": "eif2a",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "Q9BY44",
+            "status": "synonym",
+            "text": "eIF-2A"
+          },
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2A",
+            "id": "3254",
+            "norm_text": "eif2a",
+            "organism": "9606",
+            "source": "hgnc",
+            "status": "synonym",
+            "text": "EIF-2A"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "EIF2A",
+          "id": "3254",
+          "norm_text": "eif2a",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "name",
+          "text": "EIF2A"
+        },
+        "url": "https://identifiers.org/hgnc:3254"
+      },
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "mixed",
+              "mixed"
+            ]
+          ],
+          "dash_mismatches": [
+            "ref"
+          ],
+          "exact": true,
+          "query": "eIF2a",
+          "ref": "eIF-2A",
+          "space_mismatch": false
+        },
+        "score": 0.5114409400123685,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2S1",
+            "id": "3265",
+            "norm_text": "eif2a",
+            "organism": "9606",
+            "source": "hgnc",
+            "status": "synonym",
+            "text": "EIF2A"
+          },
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2S1",
+            "id": "3265",
+            "norm_text": "eif2a",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "P05198",
+            "status": "synonym",
+            "text": "EIF2A"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "EIF2S1",
+          "id": "3265",
+          "norm_text": "eif2a",
+          "organism": "9606",
+          "source": "uniprot",
+          "source_db": "UP",
+          "source_id": "P05198",
+          "status": "synonym",
+          "text": "eIF-2A"
+        },
+        "url": "https://identifiers.org/hgnc:3265"
+      }
+    ],
+    "start": 909,
+    "text": "eIF2a"
+  },
+  {
+    "end": 920,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "CHOP",
+          "ref": "CHOP",
+          "space_mismatch": false
+        },
+        "score": 1.0,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "DDIT3",
+            "id": "2726",
+            "norm_text": "chop",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "P35638",
+            "status": "synonym",
+            "text": "CHOP"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "DDIT3",
+          "id": "2726",
+          "norm_text": "chop",
+          "organism": "9606",
+          "source": "famplex",
+          "status": "curated",
+          "text": "CHOP"
+        },
+        "url": "https://identifiers.org/hgnc:2726"
+      },
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_caps",
+              "mixed"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "CHOP",
+          "ref": "ChoP",
+          "space_mismatch": false
+        },
+        "score": 0.5209235209235209,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "phosphocholine",
+          "id": "CHEBI:18132",
+          "norm_text": "chop",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "ChoP"
+        },
+        "url": "https://identifiers.org/CHEBI:18132"
+      }
+    ],
+    "start": 916,
+    "text": "CHOP"
+  },
+  {
+    "end": 926,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "IRE1",
+          "ref": "IRE1",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "ERN1",
+            "id": "3449",
+            "norm_text": "ire1",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "O75460",
+            "status": "synonym",
+            "text": "IRE1"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "ERN1",
+          "id": "3449",
+          "norm_text": "ire1",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "synonym",
+          "text": "IRE1"
+        },
+        "url": "https://identifiers.org/hgnc:3449"
+      }
+    ],
+    "start": 922,
+    "text": "IRE1"
+  },
+  {
+    "end": 934,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "JNK",
+          "ref": "JNK",
+          "space_mismatch": false
+        },
+        "score": 1.0,
+        "term": {
+          "db": "FPLX",
+          "entry_name": "JNK",
+          "id": "JNK",
+          "norm_text": "jnk",
+          "source": "famplex",
+          "status": "curated",
+          "text": "JNK"
+        },
+        "url": "https://identifiers.org/fplx:JNK"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "JNK",
+          "ref": "JNK",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "HGNC",
+          "entry_name": "MAPK8",
+          "id": "6881",
+          "norm_text": "jnk",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "synonym",
+          "text": "JNK"
+        },
+        "url": "https://identifiers.org/hgnc:6881"
+      }
+    ],
+    "start": 931,
+    "text": "JNK"
+  },
+  {
+    "end": 1020,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "real-time PCR",
+          "ref": "Real-Time PCR",
+          "space_mismatch": false
+        },
+        "score": 0.549371263656978,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Real-Time Polymerase Chain Reaction",
+            "id": "D060888",
+            "norm_text": "real time pcr",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Real Time PCR"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Real-Time Polymerase Chain Reaction",
+          "id": "D060888",
+          "norm_text": "realtime pcr",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Real-Time PCR"
+        },
+        "url": "https://identifiers.org/mesh:D060888"
+      }
+    ],
+    "start": 1007,
+    "text": "real-time PCR"
+  },
+  {
+    "end": 1123,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "nerve cells",
+          "ref": "Nerve Cells",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Neurons",
+            "id": "D009474",
+            "norm_text": "nerve cell",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Nerve Cell"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Neurons",
+          "id": "D009474",
+          "norm_text": "nerve cells",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Nerve Cells"
+        },
+        "url": "https://identifiers.org/mesh:D009474"
+      }
+    ],
+    "start": 1112,
+    "text": "nerve cells"
+  },
+  {
+    "end": 1142,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "hippocampus",
+          "ref": "Hippocampus",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Hippocampus",
+          "id": "D006624",
+          "norm_text": "hippocampus",
+          "source": "mesh",
+          "status": "name",
+          "text": "Hippocampus"
+        },
+        "url": "https://identifiers.org/mesh:D006624"
+      }
+    ],
+    "start": 1131,
+    "text": "hippocampus"
+  },
+  {
+    "end": 1225,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "initial_cap",
+              "all_lower"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "Heroin",
+          "ref": "heroin",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "chebi",
+            "status": "synonym",
+            "text": "Heroin"
+          },
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "mesh",
+            "source_db": "MESH",
+            "source_id": "D003932",
+            "status": "synonym",
+            "text": "Heroin"
+          }
+        ],
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "heroin",
+          "id": "CHEBI:27808",
+          "norm_text": "heroin",
+          "source": "chebi",
+          "status": "name",
+          "text": "heroin"
+        },
+        "url": "https://identifiers.org/CHEBI:27808"
+      }
+    ],
+    "start": 1219,
+    "text": "Heroin"
+  },
+  {
+    "end": 1266,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "initial_cap",
+              "all_lower"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "Heroin",
+          "ref": "heroin",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "chebi",
+            "status": "synonym",
+            "text": "Heroin"
+          },
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "mesh",
+            "source_db": "MESH",
+            "source_id": "D003932",
+            "status": "synonym",
+            "text": "Heroin"
+          }
+        ],
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "heroin",
+          "id": "CHEBI:27808",
+          "norm_text": "heroin",
+          "source": "chebi",
+          "status": "name",
+          "text": "heroin"
+        },
+        "url": "https://identifiers.org/CHEBI:27808"
+      }
+    ],
+    "start": 1260,
+    "text": "Heroin"
+  },
+  {
+    "end": 1278,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "mRNA",
+          "ref": "mRNA",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "subsumed_terms": [
+          {
+            "db": "CHEBI",
+            "entry_name": "messenger RNA",
+            "id": "CHEBI:33699",
+            "norm_text": "mrna",
+            "source": "mesh",
+            "source_db": "MESH",
+            "source_id": "D012333",
+            "status": "synonym",
+            "text": "mRNA"
+          }
+        ],
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "messenger RNA",
+          "id": "CHEBI:33699",
+          "norm_text": "mrna",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "mRNA"
+        },
+        "url": "https://identifiers.org/CHEBI:33699"
+      }
+    ],
+    "start": 1274,
+    "text": "mRNA"
+  },
+  {
+    "end": 1309,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "PERK",
+          "ref": "PERK",
+          "space_mismatch": false
+        },
+        "score": 1.0,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2AK3",
+            "id": "3255",
+            "norm_text": "perk",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "Q9NZJ5",
+            "status": "synonym",
+            "text": "PERK"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "EIF2AK3",
+          "id": "3255",
+          "norm_text": "perk",
+          "organism": "9606",
+          "source": "famplex",
+          "status": "curated",
+          "text": "PERK"
+        },
+        "url": "https://identifiers.org/hgnc:3255"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "PERK",
+          "ref": "PERK",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "tetrachloroethene",
+          "id": "CHEBI:17300",
+          "norm_text": "perk",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "PERK"
+        },
+        "url": "https://identifiers.org/CHEBI:17300"
+      }
+    ],
+    "start": 1305,
+    "text": "PERK"
+  },
+  {
+    "end": 1316,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "mixed",
+              "mixed"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "eIF2a",
+          "ref": "EIF2A",
+          "space_mismatch": false
+        },
+        "score": 0.7245928674500104,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2A",
+            "id": "3254",
+            "norm_text": "eif2a",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "Q9BY44",
+            "status": "name",
+            "text": "EIF2A"
+          },
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2A",
+            "id": "3254",
+            "norm_text": "eif2a",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "Q9BY44",
+            "status": "synonym",
+            "text": "eIF-2A"
+          },
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2A",
+            "id": "3254",
+            "norm_text": "eif2a",
+            "organism": "9606",
+            "source": "hgnc",
+            "status": "synonym",
+            "text": "EIF-2A"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "EIF2A",
+          "id": "3254",
+          "norm_text": "eif2a",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "name",
+          "text": "EIF2A"
+        },
+        "url": "https://identifiers.org/hgnc:3254"
+      },
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "mixed",
+              "mixed"
+            ]
+          ],
+          "dash_mismatches": [
+            "ref"
+          ],
+          "exact": true,
+          "query": "eIF2a",
+          "ref": "eIF-2A",
+          "space_mismatch": false
+        },
+        "score": 0.5114409400123685,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2S1",
+            "id": "3265",
+            "norm_text": "eif2a",
+            "organism": "9606",
+            "source": "hgnc",
+            "status": "synonym",
+            "text": "EIF2A"
+          },
+          {
+            "db": "HGNC",
+            "entry_name": "EIF2S1",
+            "id": "3265",
+            "norm_text": "eif2a",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "P05198",
+            "status": "synonym",
+            "text": "EIF2A"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "EIF2S1",
+          "id": "3265",
+          "norm_text": "eif2a",
+          "organism": "9606",
+          "source": "uniprot",
+          "source_db": "UP",
+          "source_id": "P05198",
+          "status": "synonym",
+          "text": "eIF-2A"
+        },
+        "url": "https://identifiers.org/hgnc:3265"
+      }
+    ],
+    "start": 1311,
+    "text": "eIF2a"
+  },
+  {
+    "end": 1322,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "CHOP",
+          "ref": "CHOP",
+          "space_mismatch": false
+        },
+        "score": 1.0,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "DDIT3",
+            "id": "2726",
+            "norm_text": "chop",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "P35638",
+            "status": "synonym",
+            "text": "CHOP"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "DDIT3",
+          "id": "2726",
+          "norm_text": "chop",
+          "organism": "9606",
+          "source": "famplex",
+          "status": "curated",
+          "text": "CHOP"
+        },
+        "url": "https://identifiers.org/hgnc:2726"
+      },
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_caps",
+              "mixed"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "CHOP",
+          "ref": "ChoP",
+          "space_mismatch": false
+        },
+        "score": 0.5209235209235209,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "phosphocholine",
+          "id": "CHEBI:18132",
+          "norm_text": "chop",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "ChoP"
+        },
+        "url": "https://identifiers.org/CHEBI:18132"
+      }
+    ],
+    "start": 1318,
+    "text": "CHOP"
+  },
+  {
+    "end": 1328,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "IRE1",
+          "ref": "IRE1",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "ERN1",
+            "id": "3449",
+            "norm_text": "ire1",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "O75460",
+            "status": "synonym",
+            "text": "IRE1"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "ERN1",
+          "id": "3449",
+          "norm_text": "ire1",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "synonym",
+          "text": "IRE1"
+        },
+        "url": "https://identifiers.org/hgnc:3449"
+      }
+    ],
+    "start": 1324,
+    "text": "IRE1"
+  },
+  {
+    "end": 1336,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "JNK",
+          "ref": "JNK",
+          "space_mismatch": false
+        },
+        "score": 1.0,
+        "term": {
+          "db": "FPLX",
+          "entry_name": "JNK",
+          "id": "JNK",
+          "norm_text": "jnk",
+          "source": "famplex",
+          "status": "curated",
+          "text": "JNK"
+        },
+        "url": "https://identifiers.org/fplx:JNK"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "JNK",
+          "ref": "JNK",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "HGNC",
+          "entry_name": "MAPK8",
+          "id": "6881",
+          "norm_text": "jnk",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "synonym",
+          "text": "JNK"
+        },
+        "url": "https://identifiers.org/hgnc:6881"
+      }
+    ],
+    "start": 1333,
+    "text": "JNK"
+  },
+  {
+    "end": 1355,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "hippocampus",
+          "ref": "Hippocampus",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Hippocampus",
+          "id": "D006624",
+          "norm_text": "hippocampus",
+          "source": "mesh",
+          "status": "name",
+          "text": "Hippocampus"
+        },
+        "url": "https://identifiers.org/mesh:D006624"
+      }
+    ],
+    "start": 1344,
+    "text": "hippocampus"
+  },
+  {
+    "end": 1469,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "ERS",
+          "ref": "ERS",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Amelogenesis imperfecta nephrocalcinosis",
+          "id": "C538241",
+          "norm_text": "ers",
+          "source": "doid",
+          "source_db": "DOID",
+          "source_id": "DOID:0110066",
+          "status": "synonym",
+          "text": "ERS"
+        },
+        "url": "https://identifiers.org/mesh:C538241"
+      }
+    ],
+    "start": 1466,
+    "text": "ERS"
+  },
+  {
+    "end": 1539,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "acupuncture",
+          "ref": "Acupuncture",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Acupuncture",
+          "id": "D026881",
+          "norm_text": "acupuncture",
+          "source": "mesh",
+          "status": "name",
+          "text": "Acupuncture"
+        },
+        "url": "https://identifiers.org/mesh:D026881"
+      }
+    ],
+    "start": 1528,
+    "text": "acupuncture"
+  },
+  {
+    "end": 1563,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "rats",
+          "ref": "Rats",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Rats",
+            "id": "D051381",
+            "norm_text": "rat",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Rat"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Rats",
+          "id": "D051381",
+          "norm_text": "rats",
+          "source": "mesh",
+          "status": "name",
+          "text": "Rats"
+        },
+        "url": "https://identifiers.org/mesh:D051381"
+      }
+    ],
+    "start": 1559,
+    "text": "rats"
+  },
+  {
+    "end": 1581,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "brain injury",
+          "ref": "Brain Injury",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Brain Injuries",
+          "id": "D001930",
+          "norm_text": "brain injury",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Brain Injury"
+        },
+        "url": "https://identifiers.org/mesh:D001930"
+      }
+    ],
+    "start": 1569,
+    "text": "brain injury"
+  },
+  {
+    "end": 1601,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "CHOP",
+          "ref": "CHOP",
+          "space_mismatch": false
+        },
+        "score": 1.0,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "DDIT3",
+            "id": "2726",
+            "norm_text": "chop",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "P35638",
+            "status": "synonym",
+            "text": "CHOP"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "DDIT3",
+          "id": "2726",
+          "norm_text": "chop",
+          "organism": "9606",
+          "source": "famplex",
+          "status": "curated",
+          "text": "CHOP"
+        },
+        "url": "https://identifiers.org/hgnc:2726"
+      },
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_caps",
+              "mixed"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "CHOP",
+          "ref": "ChoP",
+          "space_mismatch": false
+        },
+        "score": 0.5209235209235209,
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "phosphocholine",
+          "id": "CHEBI:18132",
+          "norm_text": "chop",
+          "source": "chebi",
+          "status": "synonym",
+          "text": "ChoP"
+        },
+        "url": "https://identifiers.org/CHEBI:18132"
+      }
+    ],
+    "start": 1597,
+    "text": "CHOP"
+  },
+  {
+    "end": 1609,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "JNK",
+          "ref": "JNK",
+          "space_mismatch": false
+        },
+        "score": 1.0,
+        "term": {
+          "db": "FPLX",
+          "entry_name": "JNK",
+          "id": "JNK",
+          "norm_text": "jnk",
+          "source": "famplex",
+          "status": "curated",
+          "text": "JNK"
+        },
+        "url": "https://identifiers.org/fplx:JNK"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "JNK",
+          "ref": "JNK",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "HGNC",
+          "entry_name": "MAPK8",
+          "id": "6881",
+          "norm_text": "jnk",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "synonym",
+          "text": "JNK"
+        },
+        "url": "https://identifiers.org/hgnc:6881"
+      }
+    ],
+    "start": 1606,
+    "text": "JNK"
+  },
+  {
+    "end": 1622,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [
+            "ref"
+          ],
+          "exact": false,
+          "query": "upregulation",
+          "ref": "Up-Regulation",
+          "space_mismatch": false
+        },
+        "score": 0.7621109049680478,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Up-Regulation",
+            "id": "D015854",
+            "norm_text": "upregulation",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Upregulation"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Up-Regulation",
+          "id": "D015854",
+          "norm_text": "upregulation",
+          "source": "mesh",
+          "status": "name",
+          "text": "Up-Regulation"
+        },
+        "url": "https://identifiers.org/mesh:D015854"
+      }
+    ],
+    "start": 1610,
+    "text": "upregulation"
+  },
+  {
+    "end": 1650,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "nerve cell",
+          "ref": "Nerve Cell",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Neurons",
+          "id": "D009474",
+          "norm_text": "nerve cell",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Nerve Cell"
+        },
+        "url": "https://identifiers.org/mesh:D009474"
+      }
+    ],
+    "start": 1640,
+    "text": "nerve cell"
+  },
+  {
+    "end": 1660,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "apoptosis",
+          "ref": "apoptosis",
+          "space_mismatch": false
+        },
+        "score": 1.0,
+        "subsumed_terms": [
+          {
+            "db": "GO",
+            "entry_name": "apoptotic process",
+            "id": "GO:0006915",
+            "norm_text": "apoptosis",
+            "source": "famplex",
+            "status": "curated",
+            "text": "Apoptosis"
+          },
+          {
+            "db": "GO",
+            "entry_name": "apoptotic process",
+            "id": "GO:0006915",
+            "norm_text": "apoptosis",
+            "source": "mesh",
+            "source_db": "MESH",
+            "source_id": "D017209",
+            "status": "synonym",
+            "text": "Apoptosis"
+          }
+        ],
+        "term": {
+          "db": "GO",
+          "entry_name": "apoptotic process",
+          "id": "GO:0006915",
+          "norm_text": "apoptosis",
+          "source": "famplex",
+          "status": "curated",
+          "text": "apoptosis"
+        },
+        "url": "https://identifiers.org/GO:0006915"
+      }
+    ],
+    "start": 1651,
+    "text": "apoptosis"
+  },
+  {
+    "end": 1725,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "acupuncture",
+          "ref": "Acupuncture",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Acupuncture",
+          "id": "D026881",
+          "norm_text": "acupuncture",
+          "source": "mesh",
+          "status": "name",
+          "text": "Acupuncture"
+        },
+        "url": "https://identifiers.org/mesh:D026881"
+      }
+    ],
+    "start": 1714,
+    "text": "acupuncture"
+  },
+  {
+    "end": 1735,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "heroin",
+          "ref": "heroin",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "chebi",
+            "status": "synonym",
+            "text": "Heroin"
+          },
+          {
+            "db": "CHEBI",
+            "entry_name": "heroin",
+            "id": "CHEBI:27808",
+            "norm_text": "heroin",
+            "source": "mesh",
+            "source_db": "MESH",
+            "source_id": "D003932",
+            "status": "synonym",
+            "text": "Heroin"
+          }
+        ],
+        "term": {
+          "db": "CHEBI",
+          "entry_name": "heroin",
+          "id": "CHEBI:27808",
+          "norm_text": "heroin",
+          "source": "chebi",
+          "status": "name",
+          "text": "heroin"
+        },
+        "url": "https://identifiers.org/CHEBI:27808"
+      }
+    ],
+    "start": 1729,
+    "text": "heroin"
+  },
+  {
+    "end": 1766,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "brain injury",
+          "ref": "Brain Injury",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Brain Injuries",
+          "id": "D001930",
+          "norm_text": "brain injury",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Brain Injury"
+        },
+        "url": "https://identifiers.org/mesh:D001930"
+      }
+    ],
+    "start": 1754,
+    "text": "brain injury"
+  }
+]

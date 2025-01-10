@@ -1,0 +1,553 @@
+[
+  {
+    "end": 83,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "plants",
+          "ref": "Plants",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Plants",
+            "id": "D010944",
+            "norm_text": "plant",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Plant"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Plants",
+          "id": "D010944",
+          "norm_text": "plants",
+          "source": "mesh",
+          "status": "name",
+          "text": "Plants"
+        },
+        "url": "https://identifiers.org/mesh:D010944"
+      }
+    ],
+    "start": 77,
+    "text": "plants"
+  },
+  {
+    "end": 124,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "Rubisco",
+          "ref": "Rubisco",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Ribulose-Bisphosphate Carboxylase",
+          "id": "D012273",
+          "norm_text": "rubisco",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Rubisco"
+        },
+        "url": "https://identifiers.org/mesh:D012273"
+      }
+    ],
+    "start": 117,
+    "text": "Rubisco"
+  },
+  {
+    "end": 192,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "molecular chaperone",
+          "ref": "Molecular Chaperone",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Molecular Chaperones",
+          "id": "D018832",
+          "norm_text": "molecular chaperone",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Molecular Chaperone"
+        },
+        "url": "https://identifiers.org/mesh:D018832"
+      }
+    ],
+    "start": 173,
+    "text": "molecular chaperone"
+  },
+  {
+    "end": 200,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "Rubisco",
+          "ref": "Rubisco",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Ribulose-Bisphosphate Carboxylase",
+          "id": "D012273",
+          "norm_text": "rubisco",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Rubisco"
+        },
+        "url": "https://identifiers.org/mesh:D012273"
+      }
+    ],
+    "start": 193,
+    "text": "Rubisco"
+  },
+  {
+    "end": 222,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "C3",
+          "ref": "C3",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "HGNC",
+            "entry_name": "C3",
+            "id": "1318",
+            "norm_text": "c3",
+            "organism": "9606",
+            "source": "uniprot",
+            "source_db": "UP",
+            "source_id": "P01024",
+            "status": "name",
+            "text": "C3"
+          }
+        ],
+        "term": {
+          "db": "HGNC",
+          "entry_name": "C3",
+          "id": "1318",
+          "norm_text": "c3",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "name",
+          "text": "C3"
+        },
+        "url": "https://identifiers.org/hgnc:1318"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "C3",
+          "ref": "C3",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "EFO",
+          "entry_name": "C3H/HeJ",
+          "id": "0001329",
+          "norm_text": "c3",
+          "source": "efo",
+          "status": "synonym",
+          "text": "C3"
+        },
+        "url": "https://identifiers.org/efo:0001329"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "C3",
+          "ref": "C3",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "EFO",
+          "entry_name": "C3H",
+          "id": "0022468",
+          "norm_text": "c3",
+          "source": "efo",
+          "status": "synonym",
+          "text": "C3"
+        },
+        "url": "https://identifiers.org/efo:0022468"
+      }
+    ],
+    "start": 220,
+    "text": "C3"
+  },
+  {
+    "end": 229,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "plants",
+          "ref": "Plants",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Plants",
+            "id": "D010944",
+            "norm_text": "plant",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Plant"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Plants",
+          "id": "D010944",
+          "norm_text": "plants",
+          "source": "mesh",
+          "status": "name",
+          "text": "Plants"
+        },
+        "url": "https://identifiers.org/mesh:D010944"
+      }
+    ],
+    "start": 223,
+    "text": "plants"
+  },
+  {
+    "end": 303,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "Rubisco",
+          "ref": "Rubisco",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "MESH",
+          "entry_name": "Ribulose-Bisphosphate Carboxylase",
+          "id": "D012273",
+          "norm_text": "rubisco",
+          "source": "mesh",
+          "status": "synonym",
+          "text": "Rubisco"
+        },
+        "url": "https://identifiers.org/mesh:D012273"
+      }
+    ],
+    "start": 296,
+    "text": "Rubisco"
+  },
+  {
+    "end": 335,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "photosynthesis",
+          "ref": "photosynthesis",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "GO",
+            "entry_name": "photosynthesis",
+            "id": "GO:0015979",
+            "norm_text": "photosynthesis",
+            "source": "mesh",
+            "source_db": "MESH",
+            "source_id": "D010788",
+            "status": "synonym",
+            "text": "Photosynthesis"
+          }
+        ],
+        "term": {
+          "db": "GO",
+          "entry_name": "photosynthesis",
+          "id": "GO:0015979",
+          "norm_text": "photosynthesis",
+          "source": "go",
+          "status": "name",
+          "text": "photosynthesis"
+        },
+        "url": "https://identifiers.org/GO:0015979"
+      }
+    ],
+    "start": 321,
+    "text": "photosynthesis"
+  },
+  {
+    "end": 371,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "temperatures",
+          "ref": "temperature",
+          "space_mismatch": false
+        },
+        "score": 0.7777777777777778,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Temperature",
+            "id": "D013696",
+            "norm_text": "temperature",
+            "source": "mesh",
+            "status": "name",
+            "text": "Temperature"
+          },
+          {
+            "db": "MESH",
+            "entry_name": "Temperature",
+            "id": "D013696",
+            "norm_text": "temperatures",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Temperatures"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Temperature",
+          "id": "D013696",
+          "norm_text": "temperature",
+          "source": "efo",
+          "source_db": "EFO",
+          "source_id": "0001702",
+          "status": "name",
+          "text": "temperature"
+        },
+        "url": "https://identifiers.org/mesh:D013696"
+      }
+    ],
+    "start": 359,
+    "text": "temperatures"
+  },
+  {
+    "end": 418,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ],
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "crassulacean acid metabolism",
+          "ref": "Crassulacean Acid Metabolism",
+          "space_mismatch": false
+        },
+        "score": 0.5400948258091115,
+        "term": {
+          "db": "GO",
+          "entry_name": "CAM photosynthesis",
+          "id": "GO:0009761",
+          "norm_text": "crassulacean acid metabolism",
+          "source": "mesh",
+          "source_db": "MESH",
+          "source_id": "D000081962",
+          "status": "synonym",
+          "text": "Crassulacean Acid Metabolism"
+        },
+        "url": "https://identifiers.org/GO:0009761"
+      }
+    ],
+    "start": 390,
+    "text": "crassulacean acid metabolism"
+  },
+  {
+    "end": 423,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_caps",
+              "mixed"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "CAM",
+          "ref": "CaM",
+          "space_mismatch": false
+        },
+        "score": 0.9653679653679654,
+        "term": {
+          "db": "FPLX",
+          "entry_name": "CALM",
+          "id": "CALM",
+          "norm_text": "cam",
+          "source": "famplex",
+          "status": "curated",
+          "text": "CaM"
+        },
+        "url": "https://identifiers.org/fplx:CALM"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "CAM",
+          "ref": "CAM",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "HGNC",
+          "entry_name": "CALM1",
+          "id": "1442",
+          "norm_text": "cam",
+          "organism": "9606",
+          "source": "uniprot",
+          "source_db": "UP",
+          "source_id": "P0DP23",
+          "status": "synonym",
+          "text": "CAM"
+        },
+        "url": "https://identifiers.org/hgnc:1442"
+      },
+      {
+        "match": {
+          "cap_combos": [],
+          "dash_mismatches": [],
+          "exact": true,
+          "query": "CAM",
+          "ref": "CAM",
+          "space_mismatch": false
+        },
+        "score": 0.5555555555555556,
+        "term": {
+          "db": "HGNC",
+          "entry_name": "KRIT1",
+          "id": "1573",
+          "norm_text": "cam",
+          "organism": "9606",
+          "source": "hgnc",
+          "status": "synonym",
+          "text": "CAM"
+        },
+        "url": "https://identifiers.org/hgnc:1573"
+      }
+    ],
+    "start": 420,
+    "text": "CAM"
+  },
+  {
+    "end": 431,
+    "matches": [
+      {
+        "match": {
+          "cap_combos": [
+            [
+              "all_lower",
+              "initial_cap"
+            ]
+          ],
+          "dash_mismatches": [],
+          "exact": false,
+          "query": "plants",
+          "ref": "Plants",
+          "space_mismatch": false
+        },
+        "score": 0.7623170480313337,
+        "subsumed_terms": [
+          {
+            "db": "MESH",
+            "entry_name": "Plants",
+            "id": "D010944",
+            "norm_text": "plant",
+            "source": "mesh",
+            "status": "synonym",
+            "text": "Plant"
+          }
+        ],
+        "term": {
+          "db": "MESH",
+          "entry_name": "Plants",
+          "id": "D010944",
+          "norm_text": "plants",
+          "source": "mesh",
+          "status": "name",
+          "text": "Plants"
+        },
+        "url": "https://identifiers.org/mesh:D010944"
+      }
+    ],
+    "start": 425,
+    "text": "plants"
+  }
+]
